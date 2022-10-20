@@ -10,4 +10,4 @@ Step 7: Go on your browser and visit http://localhost:3000/\
 
 The web application should now be fully functioning with its frontend and backend.\
 The local board stores information on local storage and the data is persistent.\
-The global board stores information on my mongoDB database and it is also persistent.\
+The global board stores information on my mongoDB database and it is also persistent.
