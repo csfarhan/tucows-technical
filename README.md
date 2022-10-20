@@ -1,6 +1,6 @@
 # tucows-technical
 
-Step 1: git clone https://github.com/csfarhan/tucows-technical.git\
+Step 1: git clone https://github.com/csfarhan/tucows-technical.git \
 Step 2: Open 2 terminals, one for frontend and one for backend.\
 Step 3: With one of the terminals, "cd backend".\
 Step 4: With the other, "cd frontend".\
