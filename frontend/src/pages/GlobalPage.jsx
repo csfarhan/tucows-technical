@@ -9,7 +9,7 @@ function GlobalPage() {
     const [food, setFood] = useState('');
     const [users, setUsers] = useState([]);
     const [firstLoad, setFirstLoad] = useState(true);
-    const HOST_URL = "http://localhost:5000";
+    const HOST_URL = "http://localhost:5001";
 
 
     useEffect(()=>{
