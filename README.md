@@ -8,4 +8,4 @@ Step 5: Type "npm i" on both of the terminals.
 Step 6: Type "npm start" on both the terminals.\
 Step 7: Go on your browser and visit http://localhost:3000/
 
-The web application should now be fully functioning with its frontend and backend. The local board stores information on local storage and the data is persistent. The global board stores information in my mongoDB database and it is also persistent.
+The web application should now be fully functioning with its frontend and backend. The local board stores information on local storage and the data is persistent. The global board stores information in my mongoDB database and it is also persistent. This application does not account for security issues as my MongoDB authentification is passed publicly for everyone to see but since you are the only one viewing it I thought it should be fine.
